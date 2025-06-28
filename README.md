@@ -4,15 +4,13 @@ los siguientes han sido probados usando solo dos paneles a la vez (para abrir en
 
 ## copiar
 
+> hotkey (addon: `key`) | DEPENDENCIA: x-finder
+
 Copiar el archivo seleccionado a otro panel (usando solo 2 paneles)
 
-DEPENDENCIA: x-finder
+**key:** `Ctrl+1`
 
-hotkey (addon: `key`)
-
-**key:** Ctrl+1
-
-**type:** X-Finder
+**type:** `X-Finder`
 
 **options:**
 
@@ -22,15 +20,13 @@ Copy: %Selected% /t %other% /a /b
 
 ## mover
 
+> hotkey (addon: `key`) | DEPENDENCIA: x-finder
+
 Mover el archivo seleccionado a otro panel (usando solo 2 paneles)
 
-DEPENDENCIA: x-finder
+**key:** `Ctrl+2`
 
-hotkey (addon: `key`)
-
-**key:** Ctrl+2
-
-**type:** X-Finder
+**type:** `X-Finder`
 
 **options:**
 
@@ -40,15 +36,13 @@ Move: %Selected% /t %other% /a /b
 
 ## abre en otro panel
 
-> hotkey (addon: `key`)
+> hotkey (addon: `key`) | DEPENDENCIA: x-finder
 
 abre el folder seleccionado en el otro panel (usando solo 2 paneles)
 
-DEPENDENCIA: x-finder
+**key:** `Ctrl+Q`
 
-**key:** Ctrl+Q
-
-**type:** JavaScript
+**type:** `JavaScript`
 
 **options:**
 
