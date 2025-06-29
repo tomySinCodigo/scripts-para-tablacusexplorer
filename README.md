@@ -36,7 +36,7 @@ Move: %Selected% /t %other% /a /b
 
 ## abre en otro panel
 
-> hotkey (addon: `key`) | DEPENDENCIA: x-finder
+> hotkey (addon: `key`) | DEPENDENCIA: -
 
 abre el folder seleccionado en el otro panel (usando solo 2 paneles)
 
